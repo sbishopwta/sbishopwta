@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I've been working at [@yahoo](https://github.com/yahoo) for the past 3.5 years - my profile looks a bit barren because we have our own internal Github instance.
+- 🔭 I’m currently working on a fun smart home security device that involves speech and facial recognition
+
 <!--
 **sbishopwta/sbishopwta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
